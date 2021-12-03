@@ -28,6 +28,8 @@
 ##
   
 Ter sabedoria é buscar o conhecimento não para ser melhor que os outros, mas para ser o melhor possível para si mesmo. Ser humilde é admitir e aceitar que outros tenham mais competência que você, no entanto, busque aprender cada dia mais tirando lições tanto dos fracassos como das vitórias
+  
+  
 S.Bernardelli
 
 <!---
