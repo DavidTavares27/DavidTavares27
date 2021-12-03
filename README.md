@@ -1,6 +1,6 @@
 - 👋 Olá!, sou David Tavares, Desenvolvedor Front-End
 - 👀 tenho interesse em Desenvolvimento de Software
-- 🌱 Atualmente estou estudando ReactJs
+- 🌱 Atualmente estou estudando ReactJs e Nodejs
 ##
 <div align="center">
   <a href="https://github.com/DavidTavares27">
@@ -14,6 +14,8 @@
   <img align="center" alt="david-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="david-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="david-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="david-node" height="30" width="60" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="david-sass" height="30" width="60" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
 
 ##
