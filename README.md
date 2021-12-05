@@ -1,5 +1,5 @@
 - 👋 Olá!, sou David Tavares, Desenvolvedor Front-End
-- 👀 tenho interesse em Desenvolvimento de Software
+- 👀 Tenho interesse em Desenvolvimento de Software
 - 🌱 Atualmente estou estudando ReactJs e Nodejs
 ##
 <div align="center">
