@@ -1,6 +1,6 @@
 - 👋 Olá!, sou David Tavares, Desenvolvedor Front-End
 - 👀 Tenho interesse em Desenvolvimento de Software
-- 🌱 Atualmente estou estudando ReactJs e Nodejs
+- 🌱 Atualmente estoo trabalhando com Clojure e ClojureScript
 ##
 <div align="center">
   <a href="https://github.com/DavidTavares27">
