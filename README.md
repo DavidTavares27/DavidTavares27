@@ -1,6 +1,6 @@
 <div display="flex">
 <p align="left">- 👋 Hello, World! ☕, sou David Tavares, <strong>Desenvolvedor Front-End</strong> </p>  
-<p align="left">  - 👀 Tenho interesse em Desenvolvimento de Software </p>  
+<p align="left">  - 👀 Tenho interesse em <strong>Desenvolvimento de Software</strong> </p>  
 <p align="left">- 🌱 Atualmente estou trabalhando com <strong>remix-run e typescript</strong> </p>  
 
 
