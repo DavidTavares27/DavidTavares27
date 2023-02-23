@@ -1,23 +1,37 @@
-<div display="flex">
+## Hello, World! ☕
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">  
-<p align="left">- 👋 Hello, World! ☕, sou David Tavares, <strong>Desenvolvedor Front-End</strong> </p>  
+<p align="left">- 👋 Sou David Tavares, <strong>Desenvolvedor Front-End</strong> </p>  
 <p align="left">  - 👀 Tenho interesse em <strong>Desenvolvimento de Software</strong> </p>  
 <p align="left">- 🌱 Atualmente estou trabalhando com <strong>remix-run e typescript</strong> </p>  
-</div>  
-<div align="center">
-  <a href="https://github.com/DavidTavares27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidTavares27&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTavares27&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
+##
   
-<div style="display: inline_block"><br>
+<a href="https://github.com/DavidTavares27">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTavares27&layout=compact&langs_count=7&theme=dracula"/>
+ 
+  ##
+
+  ### <p>Entusiasta e eterno aprendiz sobre:</p>
+  
+  <img align="center" alt="david-remix" height="30" width="40" src="https://api.iconify.design/skill-icons/remix-dark.svg">
+  <img align="center" alt="david-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="david-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="david-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="david-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="david-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="david-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="david-clojureScript" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojurescript/clojurescript-original.svg">
   
-</div>
+  <img align="center" alt="david-clojure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg">
+  
+  <img align="center" alt="david-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  
+  <img align="center" alt="david-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+  <img align="center" alt="david-github" height="30" width="40" src="https://api.iconify.design/logos/github-octocat.svg"
+  
+  <img align="center" alt="david-storybook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" >
+  
+  <img align="center" alt="david-cypress" height="30" width="40" src="https://api.iconify.design/vscode-icons/file-type-cypress-spec.svg">
 
 ##
   
