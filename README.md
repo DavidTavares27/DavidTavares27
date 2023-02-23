@@ -1,10 +1,8 @@
 <div display="flex">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">  
 <p align="left">- 👋 Hello, World! ☕, sou David Tavares, <strong>Desenvolvedor Front-End</strong> </p>  
 <p align="left">  - 👀 Tenho interesse em <strong>Desenvolvimento de Software</strong> </p>  
 <p align="left">- 🌱 Atualmente estou trabalhando com <strong>remix-run e typescript</strong> </p>  
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 </div>  
 <div align="center">
   <a href="https://github.com/DavidTavares27">
