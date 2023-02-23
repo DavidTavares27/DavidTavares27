@@ -1,6 +1,6 @@
-<p align="left">- 👋 Hello, World! ☕, sou David Tavares, Desenvolvedor Front-End <p/>  
+<p align="left">- 👋 Hello, World! ☕, sou David Tavares, <strong>Desenvolvedor Front-End<strong/> <p/>  
 <p align="left">  - 👀 Tenho interesse em Desenvolvimento de Software <p/>  
-<p align="left">- 🌱 Atualmente estou trabalhando com remix-run e typescript <p/>  
+<p align="left">- 🌱 Atualmente estou trabalhando com <strong>remix-run e typescript<strong/> <p/>  
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
