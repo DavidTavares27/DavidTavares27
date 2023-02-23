@@ -1,8 +1,8 @@
-<p align="left" display="block">
-- 👋 Hello, World! ☕, sou David Tavares, Desenvolvedor Front-End
-- 👀 Tenho interesse em Desenvolvimento de Software
-- 🌱 Atualmente estou trabalhando com Clojure, ClojureScript, remix-run com typescript
-<p/>
+<p align="left">- 👋 Hello, World! ☕, sou David Tavares, Desenvolvedor Front-End <p/>  
+<p align="left">  - 👀 Tenho interesse em Desenvolvimento de Software <p/>  
+<p align="left">- 🌱 Atualmente estou trabalhando com Clojure, ClojureScript, remix-run com typescript <p/>  
+
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 <div align="center">
   <a href="https://github.com/DavidTavares27">
