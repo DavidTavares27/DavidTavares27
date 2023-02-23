@@ -1,6 +1,8 @@
-- 👋 Olá!, sou David Tavares, Desenvolvedor Front-End
+- 👋 Hello, World! ☕, sou David Tavares, Desenvolvedor Front-End
 - 👀 Tenho interesse em Desenvolvimento de Software
-- 🌱 Atualmente estou trabalhando com Clojure e ClojureScript
+- 🌱 Atualmente estou trabalhando com Clojure, ClojureScript, remix-run com typescript
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 ##
 <div align="center">
   <a href="https://github.com/DavidTavares27">
