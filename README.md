@@ -1,4 +1,4 @@
-<p align="left">
+<p align="left" display="block">
 - 👋 Hello, World! ☕, sou David Tavares, Desenvolvedor Front-End
 - 👀 Tenho interesse em Desenvolvimento de Software
 - 🌱 Atualmente estou trabalhando com Clojure, ClojureScript, remix-run com typescript
