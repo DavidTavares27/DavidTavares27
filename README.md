@@ -3,7 +3,6 @@
 - 🌱 Atualmente estou trabalhando com Clojure, ClojureScript, remix-run com typescript
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-##
 <div align="center">
   <a href="https://github.com/DavidTavares27">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidTavares27&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
