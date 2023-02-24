@@ -15,11 +15,12 @@
   ### <p>Entusiasta e eterno aprendiz sobre:</p>
   
   <img align="center" alt="david-remix" height="30" width="40" src="https://api.iconify.design/skill-icons/remix-dark.svg">
-  <img align="center" alt="david-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="david-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="david-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="david-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="david-React" height="30" width="40" src="https://api.iconify.design/skill-icons/react-dark.svg">
+  <img align="center" alt="david-Js" height="30" width="40" src="https://api.iconify.design/skill-icons/javascript.svg">
+  <img align="center" alt="david-Ts" height="30" width="40" src="https://api.iconify.design/skill-icons/typescript.svg">
+  <img align="center" alt="david-HTML" height="30" width="40" src="https://api.iconify.design/skill-icons/html.svg">
   <img align="center" alt="david-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="david-vanillaExtract" height="30" width="40" src="https://api.iconify.design/vscode-icons/file-type-vanilla-extract.svg">
   <img align="center" alt="david-clojureScript" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojurescript/clojurescript-original.svg">
   
   <img align="center" alt="david-clojure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg">
@@ -27,7 +28,7 @@
   <img align="center" alt="david-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   
   <img align="center" alt="david-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-  <img align="center" alt="david-github" height="30" width="40" src="https://api.iconify.design/logos/github-octocat.svg"
+  <img align="center" alt="david-github" height="30" width="40" src="https://api.iconify.design/logos/github-octocat.svg">
   
   <img align="center" alt="david-storybook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" >
   
